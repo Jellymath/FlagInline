@@ -1,0 +1,3 @@
+rootProject.name = 'flag-inline-project'
+include 'flag-inline-generator'
+include 'flag-inline-sample'

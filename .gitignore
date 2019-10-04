@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/build/
+/flag-inline-generator/build/
+/flag-inline-sample/build/
